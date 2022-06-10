@@ -1,4 +1,5 @@
 class Palindromo:
+    #By Samuel Aroca
 
     def palindromo(word):
     
